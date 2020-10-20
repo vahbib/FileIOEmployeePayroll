@@ -1,0 +1,17 @@
+File is created succssfully.
+
+pathName
+true: Stands for file deleted
+ Directory created successfully
+.git
+	.gradle
+.idea
+build
+build.gradle
+gradle
+	gradlew
+gradlew.bat
+
+pathName
+settings.gradle
+src

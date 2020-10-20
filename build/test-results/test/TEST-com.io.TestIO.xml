@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.io.TestIO" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-20T17:15:32" hostname="DESKTOP-9T3G1G1" time="0.082">
+  <properties/>
+  <testcase name="test" classname="com.io.TestIO" time="0.082"/>
+  <system-out><![CDATA[File is created succssfully.
+pathName
+true: Stands for file deleted
+Directory created successfully
+.git
+.gradle
+.idea
+build
+build.gradle
+gradle
+gradlew
+gradlew.bat
+pathName
+settings.gradle
+src
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
