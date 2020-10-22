@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.io.TestIO" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-22T12:30:18" hostname="DESKTOP-9T3G1G1" time="0.032">
+  <properties/>
+  <testcase name="writeToFile" classname="com.io.TestIO" time="0.032"/>
+  <system-out><![CDATA[FILE_IO
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
