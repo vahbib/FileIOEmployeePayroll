@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.io.TestIO" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-22T14:50:08" hostname="DESKTOP-9T3G1G1" time="0.027">
+  <properties/>
+  <testcase name="writeToFile" classname="com.io.TestIO" time="0.027"/>
+  <system-out><![CDATA[id=1, name='Smith', salary=500000.0
+id=2, name='Charlie', salary=1000000.0
+id=3, name='Bridget', salary=600000.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
